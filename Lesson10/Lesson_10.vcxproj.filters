@@ -33,5 +33,8 @@
     <ClCompile Include="ex10_8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="exam2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

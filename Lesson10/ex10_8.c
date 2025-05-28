@@ -20,6 +20,7 @@ int main()
 	max = max_arr(ary, size);
 	printf("배열중 가장 큰 값: %.1lf\n", max);
 
+
 	return 0;
 }
 
