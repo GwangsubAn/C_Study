@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex11_1.c">
+    <ClCompile Include="..\Lesson11\ex12_7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex11_2.c">
+    <ClCompile Include="ex12_8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex11_3.c">
+    <ClCompile Include="ex12_9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
