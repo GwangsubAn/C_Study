@@ -15,38 +15,46 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex18_2.c">
+    <ClCompile Include="ex19_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\Lesson17\ex18_1.c">
+    <ClCompile Include="ex19_2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex18_3.c">
+    <ClCompile Include="ex19_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex18_4.c">
+    <ClCompile Include="ex19_4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex18_5.c">
+    <ClCompile Include="ex19_5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex18_6.c">
+    <ClCompile Include="ex19_6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex18_7.c">
+    <ClCompile Include="ex19_7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex18_8.c">
+    <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex18_9.c">
+    <ClCompile Include="input.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex18_10.c">
+    <ClCompile Include="average.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex18_11.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="student.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="point.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="line.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,3 +1,1 @@
-banana cherry
-apple monkey
-cherry
+10
