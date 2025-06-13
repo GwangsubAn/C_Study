@@ -15,16 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="ex12_1.c">
+=======
+    <ClCompile Include="..\Lesson11\ex12_7.c">
+>>>>>>> 4a06ccbc0c39967ff2a571f281ae48f7cdeeba1c
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ex12_8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="ex12_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="exam.c">
+=======
+    <ClCompile Include="ex12_9.c">
+>>>>>>> 4a06ccbc0c39967ff2a571f281ae48f7cdeeba1c
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

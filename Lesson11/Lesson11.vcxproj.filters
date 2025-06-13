@@ -14,6 +14,7 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ClCompile Include="ex11_4.c">
       <Filter>소스 파일</Filter>
@@ -25,4 +26,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+=======
+>>>>>>> 4a06ccbc0c39967ff2a571f281ae48f7cdeeba1c
 </Project>

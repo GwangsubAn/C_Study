@@ -33,7 +33,7 @@
     <ClCompile Include="ex10_8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="exam2.c">
+    <ClCompile Include="exam.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

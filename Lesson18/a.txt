@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thi is a test of fopen.
+=======
+10
+>>>>>>> 4a06ccbc0c39967ff2a571f281ae48f7cdeeba1c
